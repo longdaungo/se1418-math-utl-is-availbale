@@ -8,5 +8,5 @@ to simulate some basic math methods e.g. getFactorial(),sqrt() aka Math class in
 * README.md - this file itself to show the  home-page of a repo
 * ...
 ### Connect me via:
-[Facebook](https://www.facebook.com/profile.php?id=100007448806320)
-### © 2020 by Long Nguyen
+[Facebook](https://www.facebook.com/longdaungo113/)
+### © 2020 by LongNguyen

@@ -29,7 +29,7 @@ public class MathUtility {
             return 1;
         //song sot den day, thi n >1 va <= 20 roi
         long result =1;
-        for (int i = 2; i < n; i++) {
+        for (int i = 2; i <= n; i++) {
             result *= i;
         }
         return result;

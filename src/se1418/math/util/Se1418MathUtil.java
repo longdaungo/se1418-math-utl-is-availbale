@@ -28,8 +28,8 @@ public class Se1418MathUtil {
         
         //e:ném về ngoại lệ IllegalArgumentException nếu gia thừa -5
         System.out.println("-5!:"+MathUtility.getFactorial(-5));
-    }
-    
+        
+    }   
 }
       // TODO code application logic here
         //Code viet ra thi dev phai test truoc cai da
