@@ -28,7 +28,7 @@ public class Se1418MathUtil {
         
         //e:ném về ngoại lệ IllegalArgumentException nếu gia thừa -5
         System.out.println("-5!:"+MathUtility.getFactorial(-5));
-        
+        System.out.println("CI for today");
     }   
 }
       // TODO code application logic here

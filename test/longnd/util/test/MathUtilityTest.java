@@ -37,7 +37,7 @@ public class MathUtilityTest {
         assertEquals(720, MathUtility.getFactorial(6));
         assertEquals(6, MathUtility.getFactorial(3));
         assertEquals(2, MathUtility.getFactorial(0));
-        
+        assertEquals(6, MathUtility.getFactorial(2));
       
         //có xanh heng,ko, đỏ heng
         
